@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I9PP/dW2JaiBBMXxoA2nUi7XVQXv0E4vD2xRvIUfEOcFUU9zgaI7g1feL5QrtI4lR5rusuBRSDXbsC0Yl316Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\internet\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\internet\\.nuget\\packages\\encryptionlibrary.ucb\\1.0.1\\encryptionlibrary.ucb.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
